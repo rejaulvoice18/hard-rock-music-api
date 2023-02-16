@@ -12,6 +12,7 @@ const searchSongs = async() => {
        }
 }
 
+//Function for Display Data
 const displaySongs = (lyric) => {
     // console.log(lyric)
     const lyricContainer = document.getElementById('lyricContainer')
